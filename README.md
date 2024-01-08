@@ -1,4 +1,3 @@
-# employee-attrition-analysis
 # Employee Attrition Data Analysis Project
 
 ## Overview
